@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![npm version](https://badge.fury.io/js/rich-text-converter.svg)](https://www.npmjs.com/package/rich-text-converter)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SH20RAJ.RichTextConvertor)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2FRichTextConvertor&labelColor=%23ff8a65&countColor=%23d9e3f0&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2FRichTextConvertor)
 
 A JavaScript library to convert normal text into rich text with support for hashtags, mentions, bold, and underline.
 
