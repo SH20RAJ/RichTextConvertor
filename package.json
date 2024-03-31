@@ -11,7 +11,7 @@
     "url": "git+https://github.com/SH20RAJ/RichTextConvertor.git"
   },
   "keywords": ["rich text", "converter", "hashtags", "mentions", "bold", "underline"],
-  "author": "Your Name",
+  "author": "sh20raj",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/SH20RAJ/RichTextConvertor/issues"
