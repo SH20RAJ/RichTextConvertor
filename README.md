@@ -22,12 +22,31 @@ You can also use the library directly from a CDN:
 
 ```html
 <!-- Include RichTextConvertor.js from jsDelivr -->
-<script src="https://cdn.jsdelivr.net/gh/SH20RAJ/RichTextConvertor/RichTextConvertor.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/SH20RAJ/RichTextConvertor/RichTextConvertor.min.js"></script>
 ```
 
 ## Usage
 
+### Browser
+
 ```javascript
+// Create a new instance of RichTextConverter
+const converter = new RichTextConverter();
+
+// Example usage
+const inputText = "Check out #trending topics and mention @user in this **cool** __text__!";
+const richText = converter.convert(inputText);
+
+console.log(richText);
+```
+
+### Node.js
+
+You can also use the library in Node.js:
+
+```javascript
+const RichTextConverter = require('rich-text-converter');
+
 // Create a new instance of RichTextConverter
 const converter = new RichTextConverter();
 
@@ -64,16 +83,6 @@ const converter = new RichTextConverter(config);
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-```
-
-## Badges
-
-- [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-- [![npm version](https://badge.fury.io/js/rich-text-converter.svg)](https://www.npmjs.com/package/rich-text-converter)
-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=SH20RAJ.RichTextConvertor)
 
 ## Credits
 
