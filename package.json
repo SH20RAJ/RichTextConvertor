@@ -1,6 +1,6 @@
 {
   "name": "rich-text-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JavaScript library to convert normal text into rich text with support for hashtags, mentions, bold, and underline.",
   "main": "RichTextConvertor.js",
   "scripts": {
