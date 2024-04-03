@@ -6,6 +6,9 @@
 
 A JavaScript library to convert normal text into rich text with support for hashtags, mentions, bold, and underline.
 
+[Dev.to
+](https://dev.to/sh20raj/convert-plain-text-to-rich-text-with-ease-3kcd)
+
 ## Installation
 
 ### Using npm
